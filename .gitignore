@@ -1,1 +1,5 @@
-node_modules
+# Игнорирование папки node_modules
+node_modules/
+
+# Игнорирование файла redux.min.js
+redux.min.js
